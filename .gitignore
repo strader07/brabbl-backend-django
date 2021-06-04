@@ -73,3 +73,6 @@ test_results.html
 *conf/
 conf/
 */conf/
+brabbl/conf/
+brabbl/conf/*
+brabbl/conf
