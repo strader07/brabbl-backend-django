@@ -1,0 +1,23 @@
+Django==2.0.6
+djangorestframework==3.8.2
+django-cors-headers==2.2.0
+django-rq==1.2.0
+webpreview==1.4.0
+django-crontab==0.7.1
+easy-thumbnails==2.5
+requests==2.19.1
+Pillow==5.1.0
+django-rosetta==0.8.1
+microsofttranslator==0.8
+polib==1.0.7
+defusedxml==0.5
+oauthlib==2.1.0
+PyJWT==1.6.4
+python-social-auth==0.2.19  # this is kept because of backwards compatbility reasons
+social-auth-app-django==2.1.0
+python3-openid==3.0.10
+requests-oauthlib==1.0.0
+unittest2==1.1.0
+httpretty==0.9.5
+django-ckeditor==5.5.0
+django-embed-video==1.1.2

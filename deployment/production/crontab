@@ -1,0 +1,4 @@
+MAILTO=admin@jonasundderwolf.de
+PYTHONWARNINGS="ignore::DeprecationWarning"
+
+# m h  dom mon dow   command

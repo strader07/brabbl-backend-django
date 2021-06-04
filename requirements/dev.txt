@@ -1,0 +1,4 @@
+-r tests_pytest.txt
+
+django-debug-toolbar
+django-localdevstorage

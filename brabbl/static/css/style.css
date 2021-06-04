@@ -1,0 +1,11 @@
+.ReactModal__Content {
+    transform: scale(1);
+    -webkit-transition: 0s;
+    -moz-transition: 0s;
+    -o-transition: 0s;
+    transition: 0s;
+}
+
+.clearfix {
+    clear: both;
+}
