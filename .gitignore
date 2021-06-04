@@ -69,10 +69,3 @@ media
 static_files/
 test_results.html
 .idea
-
-*conf/
-conf/
-*/conf/
-brabbl/conf/
-brabbl/conf/*
-brabbl/conf
